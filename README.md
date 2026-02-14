@@ -4,7 +4,7 @@
 > **Author:** [Xing Nuo]
 > **Student ID:** [GS70842]
 > **Date:** February 2026
-> **Repository:** [Link to your GitHub if available]
+> **Repository:** [https://github.com/NUOO11/NLP-Based-UML-Generator]
 
 ---
 
@@ -121,3 +121,4 @@ Paste the "Ground Truth" (Correct) PlantUML code into the text area.
 
 
 The system will calculate Precision, Recall, and F1-Score for entities and relations.
+
