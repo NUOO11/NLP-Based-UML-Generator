@@ -68,7 +68,7 @@ Run the following command to install all required libraries listed in `requireme
 pip install -r requirements.txt
 
 
-Step 4: Download the NLP Model (Critical)
+### Step 4: Download the NLP Model (Critical)
 The system requires a specific English language model from spaCy to analyze grammar. You must run this command:
 
 Bash
@@ -118,5 +118,6 @@ Tab 2 (PlantUML Source): Displays the generated code.
 Scroll to the bottom "Thesis Validation Dashboard".
 
 Paste the "Ground Truth" (Correct) PlantUML code into the text area.
+
 
 The system will calculate Precision, Recall, and F1-Score for entities and relations.
